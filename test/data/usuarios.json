@@ -1,0 +1,18 @@
+{
+  "usuarioValido": {
+    "email": "felipe@gmail.com",
+    "password": "123456789"
+  },
+  "usuarioInvalido": {
+    "email": "email-errado.com",
+    "password": "123456789"
+  },
+  "outroUsuarioInvalido": {
+    "email": "maria@teste.com",
+    "password": "123456789",
+    "passwordConfirm": "12345678"
+  },
+  "formData": {
+    "inputText": "Lorem ipsum dolor sit amet consectetur adipiscing elit platea pulvinar aenean, risus varius turpis leo sagittis venenatis morbi laoreet netus bibendum commodo, ac inceptos nec cras felis dignissim sem nostra eget."
+  }
+}

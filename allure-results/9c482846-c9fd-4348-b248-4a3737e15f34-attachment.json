@@ -1,0 +1,4 @@
+{
+  "using": "-android uiautomator",
+  "value": "new UiSelector().text(\"Next-gen browser and mobile automation test framework for Node.js\")"
+}

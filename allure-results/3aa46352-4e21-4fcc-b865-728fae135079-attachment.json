@@ -1,0 +1,37 @@
+{
+  "actions": [
+    {
+      "id": "action16",
+      "type": "pointer",
+      "parameters": {
+        "pointerType": "mouse"
+      },
+      "actions": [
+        {
+          "type": "pointerMove",
+          "button": 0,
+          "x": 734,
+          "y": 1673,
+          "duration": 0,
+          "origin": "viewport"
+        },
+        {
+          "type": "pointerDown",
+          "button": 0
+        },
+        {
+          "type": "pointerMove",
+          "button": 0,
+          "x": 571,
+          "y": 635,
+          "duration": 1000,
+          "origin": "viewport"
+        },
+        {
+          "type": "pointerUp",
+          "button": 0
+        }
+      ]
+    }
+  ]
+}
