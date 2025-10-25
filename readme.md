@@ -19,6 +19,28 @@ https://github.com/user-attachments/assets/982a52fb-5d4a-4980-b077-870eb5734c80
 ✅ Git / CI-ready 
 
 ---
+
+## Cenários de Teste Cobertos
+
+A suíte de testes automatizados cobre os seguintes fluxos e validações funcionais do aplicativo:
+
+### Login e Cadastro
+* **CT001:** Deve realizar um novo cadastro com sucesso.
+* **CT002:** Deve exibir mensagem de erro para email inválido.
+* **CT003:** Deve exibir mensagem de erro para senhas que não conferem.
+* **CT004:** Deve realizar login com sucesso (lendo dados do JSON).
+
+### Funcionalidades Principais
+* **CT005:** Deve preencher o formulário, salvar e validar o estado.
+* **CT006:** Deve interagir com a tela do "Copilot" (robô).
+* **CT007:** Deve navegar na Webview, validar textos e interagir com o menu e scroll.
+* **CT008:** Deve navegar pelas abas principais (Home, Webview, Login, Forms) e validar o conteúdo de cada tela.
+
+### Gestos
+* **CT009:** Deve navegar para a tela de "Swipe" e executar uma sequência de gestos de arrastar.
+* **CT010:** Deve navegar para a tela de "Gestos" (Draw) e executar movimentos complexos na tela.
+
+---
 📁 Estrutura simplificada
 Aqui está a estrutura em Markdown, pronta para copiar e colar no seu README.md:
 
